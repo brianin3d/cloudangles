@@ -1,0 +1,4 @@
+-main Main
+-neko app.n
+-lib opengl
+-cmd nekotools boot app.n

@@ -1,0 +1,6 @@
+<project name="cloudangles" url="http://cloudangles.org" license="Public">
+	<user name="mylogin"/>
+	<description>My latest thing</description>
+	<version name="1.0.0">Initial release, by archetype</version>
+	<depends name="opengl"/>
+</project>
